@@ -1,0 +1,5 @@
+{
+  "name": "Cricket Trump Cards",
+  "description": "A trump card game featuring legendary cricket players. Compare stats across Test, ODI, and T20 formats in a quick 5-card game. Player images and bios are generated dynamically and cached for a fast, rich experience.",
+  "requestFramePermissions": []
+}
